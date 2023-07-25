@@ -1,0 +1,26 @@
+
+  .board-row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+.square{
+height:50px;
+   border: 2px solid blueviolet;
+    width: 100%
+}
+.elementCSS{
+  text-align: center;
+}
+.board-container{
+  margin: 80px;
+  
+}
+.buttonCSS{
+  justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+
+  
